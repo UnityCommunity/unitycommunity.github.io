@@ -11,13 +11,13 @@ services:
     list:
       - title: "100% Open Source"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fab fa-osi 
       - title: "Resources"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-bookmark       
       - title: "Guides"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-graduation-cap
+        icon: fas fa-graduation-cap
 
 portfolio:
     title: "Projects"
