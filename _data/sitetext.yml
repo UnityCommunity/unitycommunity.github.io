@@ -4,7 +4,7 @@ header:
     button: Show me more
     buttonlink: "#motivations" # "#{section}" or "URL/page link"
 
-motivations:
+services:
     title: "Our Motivations"
     text: 
     section: motivations
