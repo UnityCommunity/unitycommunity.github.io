@@ -1,13 +1,13 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/04-full.jpg
+title: UnitySingleton
+subtitle: The best way to implement singleton pattern in Unity. 
+image: https://repository-images.githubusercontent.com/103733805/12bb9600-1f8f-11eb-85fc-17cf6f9af931
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  title: UnitySingleton
+  subtitle: The best way to implement singleton pattern in Unity. 
+  thumbnail: https://repository-images.githubusercontent.com/103733805/12bb9600-1f8f-11eb-85fc-17cf6f9af931
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
